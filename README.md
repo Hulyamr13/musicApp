@@ -1,0 +1,7 @@
+![Screenshot](home.png)
+![Screenshot](album.png)
+![Screenshot](song.png)
+![Screenshot](details.png)
+![Screenshot](delete1.png)
+![Screenshot](delete2.png)
+![Screenshot](edit.png)
