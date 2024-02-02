@@ -5,3 +5,4 @@
 ![Screenshot](delete1.png)
 ![Screenshot](delete2.png)
 ![Screenshot](edit.png)
+![Screenshot](play.png)
